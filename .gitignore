@@ -1,0 +1,12 @@
+data/*.bak*
+data/*.catbak*
+data/*.finalbak*
+data/*.finalbackup
+data/*.jsonbak
+data/*.manualbak
+data/*.posbak
+data/*.prefinal
+data/*.preliteralbak
+data/*.pwshbak
+data/*.regenbak
+data/*.zbak

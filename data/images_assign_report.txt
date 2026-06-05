@@ -1,0 +1,3 @@
+Assigned images: 70
+Missing: 1
+Missing image for order 17 (paper: StructGraphics: Flexible Visualization Design through Data-Agnostic and Reusable Graphical Structures)

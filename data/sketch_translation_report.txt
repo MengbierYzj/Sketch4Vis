@@ -1,0 +1,279 @@
+Sketch-Based Fast and Accurate Querying of Time Series Using Parameter-Sharing LSTM Networks
+OLD: 在时间序列中手绘修改区间曲线
+NEW: Hand-draw interval curves in time series data.
+
+Expressive Time Series Querying with Hand-Drawn Scale-Free Sketches
+OLD: 在时间序列上绘制以查询数据
+NEW: Draw on time series to query data.
+
+Investigating the Sketchplan: A Novel Way of Identifying Tactical Behavior in Massive Soccer Datasets
+OLD: 为比赛绘制战术草图
+NEW: Draw tactical sketches for games.
+
+QuteVis: Visually Studying Transportation Patterns Using Multisketch Query of Joint Traffic Situations
+OLD: 利用多草图查询和可视化技术来发现历史中特定时间和日期在不同城市地点具有特定联合交通模式的情况
+NEW: Use multi-sketch querying and visualization to discover joint traffic patterns at specific times, dates, and city locations in historical data.
+
+You can't always sketch what you want: Understanding Sensemaking in Visual Query Systems
+OLD: 通过直观的基于草图的界面交互式地搜索具有所需视觉模式的折线图
+NEW: Interactively search for line charts with desired visual patterns through an intuitive sketch-based interface.
+
+Transformation of an Uncertain Video Search Pipeline to a Sketch-Based Visual Analytics Loop
+OLD: 用草图工具绘制结果匹配视频中特定的搜索查询，并对搜索结果的相似性可视化
+NEW: Use sketch tools to express specific video search queries and visualize the similarity of search results.
+
+TimeTubesX: A Query-Driven Visual Exploration of Observable, Photometric, and Polarimetric Behaviors of Blazars
+OLD: 用户在三维空间中绘制感兴趣的区域，系统对该区域内的特征进行可视化总结
+NEW: Users draw regions of interest in 3D space, and the system visually summarizes features within those regions.
+
+TimeSplines: Sketch-Based Authoring of Flexible and Idiosyncratic Timelines
+OLD: 立体数据可视化中草图查询相似的视觉结果
+NEW: Use sketch queries to retrieve similar visual results in volumetric data visualization.
+
+Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration
+OLD: 通过草图查询，探索大量矩阵图集
+NEW: Explore large collections of matrix visualizations through sketch-based queries.
+
+Tackling Similarity Search for Soccer Match Analysis: Multimodal Distance Measure and Interactive Query Definition
+OLD: 基于绘图的可视化搜索系统，识别足球动作
+NEW: Use a drawing-based visual search system to identify soccer actions.
+
+Visual Analytics of Ball Handlers’ Decisions in Basketball Games
+OLD: 集成时间信息的草图面板，以支持对类似比赛场景下球员决策的探索
+NEW: Use a sketch panel with temporal information to support exploration of player decision-making in similar game scenarios.
+
+MARVisT: Authoring Glyph-Based Visualization in Mobile Augmented Reality
+OLD: 将白板上的草图与虚拟符号相结合生成叙事可视化
+NEW: Combine sketches on a whiteboard with virtual symbols to generate narrative visualizations.
+
+Visualization-by-Sketching: An Artist&’s Interface for Creating Multivariate Time-Varying Data Visualizations
+OLD: 设计师无需研究和调整低级算法及其参数，而是通过直接在数字数据画布上绘画、绘制数据字形以及将多层动画 2D 图形排列和混合在一起来创建新的可视化效果
+NEW: Designers create new visualizations by painting directly on a digital data canvas, drawing data glyphs, and arranging and blending layered animated 2D graphics, without studying or tuning low-level algorithms and parameters.
+
+VividGraph: Learning to Extract and Redesign Network Graphs From Visualization Images
+OLD: 输入手绘图像，识别手绘照片，重新设计可视化
+NEW: Input hand-drawn images, recognize sketched photos, and redesign visualizations.
+
+Enhancing Mobile Visualisation Interactivity: Insights on a Mixed-fidelity Prototyping Approach
+OLD: 纸上绘制饼状图，输入电脑转换
+NEW: Draw pie charts on paper and convert them after computer input.
+
+Data Illustrator: Augmenting Vector Design Tools with Lazy Data Binding for Expressive Visualization Authoring
+OLD: 用矢量图绘制
+NEW: Draw with vector graphics.
+
+iVoLVER: Interactive Visual Language for Visualization Extraction and Reconstruction
+OLD: 手绘创建可视化效果
+NEW: Create visualizations through hand drawing.
+
+Dear Pictograph: Investigating the Role of Personalization and Immersion for Consuming and Enjoying Visualizations
+OLD: 手绘创建图案，加入infovis中
+NEW: Hand-draw patterns and incorporate them into information visualization.
+
+DataInk: Direct and Creative Data-Oriented Drawing
+OLD: 创建手绘nar vis
+NEW: Create hand-drawn narrative visualizations.
+
+DataSelfie: Empowering People to Design Personalized Visuals to Represent Their Data
+OLD: 手绘创建个人信息图像
+NEW: Create personal information graphics through hand drawing.
+
+texSketch: Active Diagramming through Pen-and-Ink Annotations
+OLD: 笔绘制+自然语言生成图表
+NEW: Generate charts through pen drawing and natural language.
+
+Comprehensive Sketching: Exploring Infographic Design Alternatives in Parallel
+OLD: 手绘生成信息图表
+NEW: Generate infographics through hand drawing.
+
+On Sketch-Based Selections From Scatterplots Using KDE, Compared to Mahalanobis and CNN Brushing
+OLD: 开发了 CNN 刷选技术[8]，利用深度学习建立用户草图与实际数据选择之间的联系
+NEW: Develop a CNN brushing technique that uses deep learning to connect user sketches with actual data selections.
+
+Data Prophecy: Exploring the Effects of Belief Elicitation in Visual Analytics
+OLD: 划选数据点
+NEW: Select data points by drawing over them.
+
+InkSight: Leveraging Sketch Interaction for Documenting Chart Findings in Computational Notebooks
+OLD: 框选或勾勒图表中的元素（如折线图中的点或线段或一系列折线）
+NEW: Box-select or outline chart elements, such as points, line segments, or groups of lines in line charts.
+
+PanoramicData: Data Analysis through Pen & Touch
+OLD: 对数据通过绘图进行刷选和标注，实现创建新图表、标注等交互
+NEW: Brush and annotate data through drawing to support interactions such as creating new charts and annotations.
+
+Smart Brushing for Parallel Coordinates
+OLD: 刷选平行坐标图
+NEW: Brush parallel coordinate plots.
+
+Efficient Structure-Aware Selection Techniques for 3D Point Cloud Visualizations with 2DOF Input
+OLD: 涂抹选中一片区域
+NEW: Select an area by smearing or brushing over it.
+
+Personalized Sketch-Based Brushing in Scatterplots
+OLD: 刷选可视化内容，优化刷选识别
+NEW: Brush visualization content and improve brushing recognition.
+
+InChorus: Designing Consistent Multimodal Interactions for Data Visualization on Tablet Devices
+OLD: 套索选数据点
+NEW: Lasso-select data points.
+
+Sketching Uncertainty into Simulations
+OLD: 通过在渲染图上绘制更改来引导数字参数和具有空间对应关系的参数
+NEW: Guide numerical parameters and spatially corresponding parameters by drawing edits on rendered images.
+
+Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs
+OLD: 为数据集构建的基于手绘线的交互界面
+NEW: Provide a hand-drawn-line-based interactive interface for datasets.
+
+An analytical framework for formulating metrics for evaluating multi-dimensional time-series data
+OLD: 圈选
+NEW: Circle-select items.
+
+Kitty: sketching dynamic and interactive illustrations
+OLD: 与生成的动态交互式插图进行绘图交互，绘图的参数相应变化
+NEW: Interact with generated dynamic illustrations by drawing, causing the drawing parameters to change accordingly.
+
+RealitySketch: Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching
+OLD: 在移动增强现实屏幕上绘制图形元素，并以实时和即兴的方式将其与物理对象绑定，从而使绘制的元素能够随着相应的物理运动而动态移动
+NEW: Draw graphical elements on a mobile AR screen and bind them to physical objects in real time and on the fly, allowing the drawn elements to move dynamically with the corresponding physical motion.
+
+RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects
+OLD: 通过响应式手绘动画轻松增强现实世界的物理运动
+NEW: Augment real-world physical motion with responsive hand-drawn animations.
+
+Feellustrator: A Design Tool for Ultrasound Mid-Air Haptics
+OLD: 绘制超声波，并将超声波可视化
+NEW: Draw ultrasound patterns and visualize them.
+
+Transmogrification: causal manipulation of visualizations
+OLD: 画线创建轨迹形状
+NEW: Create trajectory shapes by drawing lines.
+
+Is this Real?: Generating Synthetic Data that Looks Real
+OLD: 绘制曲线生成折线图
+NEW: Generate line charts by drawing curves.
+
+Interactive Body-Driven Graphics for Augmented Video Performance
+OLD: 图形增强技术，绘制信息与现实交互
+NEW: Use graphical augmentation techniques to draw information that interacts with the real world.
+
+InkPlanner: Supporting Prewriting via Intelligent Visual Diagramming
+OLD: 手绘创建思维导图和叙事线
+NEW: Create mind maps and narrative lines through hand drawing.
+
+Active Reading of Visualizations
+OLD: 探讨草图式行为在可视阅读中的认知与实用价值
+NEW: Examine the cognitive and practical value of sketch-like behavior in visual reading.
+
+VideoSticker: A Tool for Active Viewing and Visual Note-taking from Videos
+OLD: 笔记工具，支持草图绘制
+NEW: A note-taking tool that supports sketching.
+
+Data Hunches: Incorporating Personal Knowledge into Visualizations
+OLD: 草图对图表进行标注操作
+NEW: Annotate charts with sketches.
+
+DejaVu: integrated support for developing interactive camera-based programs
+OLD: 通过在画布上绘制辅助处理视觉数据的思考过程
+NEW: Support visual data reasoning processes by drawing on the canvas.
+
+GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images
+OLD: 给数据点勾画边界
+NEW: Draw boundaries around data points.
+
+Personal Augmented Reality for Information Visualization on Large Interactive Displays
+OLD: 在图表上手绘标注注释
+NEW: Hand-draw annotations on charts.
+
+Evaluating Sketchiness as a Visual Variable for the Depiction of Qualitative Uncertainty
+OLD: 探究将“草图感”作为专门用于描绘不确定性的视觉变量的适宜性
+NEW: Investigate the suitability of sketchiness as a visual variable specifically for depicting uncertainty.
+
+PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning
+OLD: 绘制生成故事线
+NEW: Generate storylines by drawing.
+
+Graph Drawing Aesthetics—Created by Users, Not Algorithms
+OLD: 手绘邻接表并生成邻接表
+NEW: Hand-draw adjacency lists and generate adjacency tables.
+
+Design Order Guided Visual Note Layout Optimization
+OLD: 对手绘视觉笔记的布局优化
+NEW: Optimize the layout of hand-drawn visual notes.
+
+Smartboard: Visual Exploration of Team Tactics with LLM Agent
+OLD: 为比赛绘制战术草图
+NEW: Help users design hypnotic line art through sketching, a curved art style with 3D illusion and topological qualities. Tensor fields have seen a broad range of applications in computer graphics and data visualization.
+
+WYSIWYG Design of Hypnotic Line Art
+OLD: 辅助用户通过草图设计 hypnotic line art（一种具 3D 幻觉和拓扑感的曲线艺术风格） Tensor fields have seen a broad range of applications in computer graphics and data visualization
+NEW: Hand-annotate time series.
+
+Digital pen and paper practices in observational research
+OLD: 对时间序列进行手绘注释
+NEW: Use hand drawing to perform operations such as box selection and line drawing.
+
+ActiveInk: (Th)Inking with Data
+OLD: 手绘实现框选、划线等操作
+NEW: Use a plugin to select related text or code and draw a bounding box or freehand sketch on the output to indicate that the selected cell or paragraph is relevant.
+
+InterLink: Linking Text with Code and Output in Computational Notebooks
+OLD: 其中一个插件，选择相关的文本或代码，并在输出上绘制一个边界框或自由手绘草图，以表明所选的单元格或段落是相关的
+NEW: Use a mobile sketching interface to explore multidimensional datasets on a wall display.
+
+SketchSliders: Sketching Widgets for Visual Exploration on Wall Displays
+OLD: 移动素描界面，用于在墙壁显示器上探索多维数据集
+NEW: Draw example icons and chart axes; after recognizing the axes, SketchStory completes the chart by synthesizing from the example sketch, adds underlying data, and supports later interaction.
+
+SketchStory: Telling More Engaging Stories with Data through Freeform Sketching
+OLD: 绘制示例图标和图表轴，在识别出图表轴后，SketchStory 通过从示例草图中合成来完成图表并添加底层数据，并可以后续交互
+NEW: Generate charts, such as bar charts, through drawing.
+
+Understanding Pen and Touch Interaction for Data Exploration on Interactive Whiteboards
+OLD: 通过绘制生成图表（条形图）
+NEW: Outline a region to select points.
+
+Interweaving Multimodal Interaction With Flexible Unit Visualizations for Data Exploration
+OLD: 勾勒范围来框选点
+NEW: Use whiteboard doodle interactions for data analysis.
+
+SketchInsight: Natural data exploration on interactive whiteboards leveraging pen and touch interaction
+OLD: 白板涂鸦交互实现数据分析
+NEW: Draw lines directly over selected data points in a visualization to form axes representing nonlinear weighted combinations of multidimensional attributes.
+
+AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings
+OLD: 在可视化上直接对选定的数据点绘制线条，形成代表多维属性的非线性加权组合的坐标轴
+NEW: Draw sketches on visualizations of one-dimensional datasets to resample the dataset according to the sketch.
+
+SketchPadN-D: WYDIWYG Sculpting and Editing in High-Dimensional Space
+OLD: 在一维数据集中可视化上绘制草图，实现根据草图的数据集重采样
+NEW: Brush data.
+
+iVisDesigner: Expressive Interactive Design of Information Visualizations
+OLD: 对数据进行刷选
+NEW: Construct visualization designs by drawing graphical marks on a canvas and then structuring their visual properties without relying on a specific dataset or data schema.
+
+StructGraphics: Flexible Visualization Design through Data-Agnostic and Reusable Graphical Structures
+OLD: 通过在画布上绘制图形来构建可视化设计，然后对其视觉属性进行结构化，而无需依赖具体的数据集或数据模式
+NEW: Combine a monocular 2D surface, an interactive screen with touch and pen input, with stereoscopic 3D space in an AR headset to jointly host spatial data visualizations.
+
+SpatialTouch: Exploring Spatial Data Visualizations in Cross-Reality
+OLD: 将单目 2D 表面（具有触摸和笔输入的交互式屏幕）与立体 3D 空间（增强现实头戴式显示器）相结合，以共同承载空间数据可视化
+NEW: Structure free-form sketches into visualization templates.
+
+DataGarden: Formalizing Personal Sketches into Structured Visualization Templates
+OLD: 将自由形式的草图结构化为可视化模板
+NEW: Create dashboards from hand-drawn sketches.
+
+LADV: Deep Learning Assisted Authoring of Dashboard Visualizations From Images and Sketches
+OLD: 从手绘草图创建仪表板
+NEW: Design a pen that can be used for information visualization.
+
+HaptiStylus: A Novel Stylus for Conveying Movement and Rotational Torque Effects
+OLD: 设计一种笔，可用于infovis
+NEW: A drawing tool for children that collects feelings about music and integrates a deep learning system for analysis.
+
+DoodleTunes: Interactive Visual Analysis of Music-Inspired Children Doodles with Automated Feature Annotation
+OLD: 为儿童设计的绘画软件，收集对音乐的感受，集成深度学习系统进行分析
+NEW: A drawing tool for children that collects feelings about music and integrates a deep learning system for analysis.
